@@ -8,3 +8,4 @@ You can download it here:
 
 After downloading, place the file inside this folder:
 EcoSort-Intelligent-Waste-Detection/model/best_model.keras
+
