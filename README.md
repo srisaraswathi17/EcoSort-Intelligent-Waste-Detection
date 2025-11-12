@@ -83,6 +83,11 @@ Follow these steps to run this project locally:
 git clone https://github.com/<your-username>/AI-Waste-Classification.git
 cd AI-Waste-Classification
 
+## 📦 Model File
+The trained CNN model file (`best_model.keras`) is available here:  
+👉 [Download from Google Drive](https://drive.google.com/file/d/1ji_6VuLHU6gMPPe-4cka39RsVFi2BPM0/view?usp=drive_link)
+
+
 2️⃣ Create a virtual environment (recommended)
 python -m venv env
 source env/bin/activate   # For Mac/Linux
